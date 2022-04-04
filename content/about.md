@@ -1,9 +1,10 @@
 ---
-title: "About"
-description: "About me"
+title: About
+description: About me
 date: 2022-03-29
-aliases: ["about-me"]
-author: "Shane"
----
+aliases:
+- about-me
+author: Shane
 
-Shane is a Physics major at UC Irvine.
+---
+Shane is a Physics major at UC Irvine. Who is also a gigachad incarnate.
