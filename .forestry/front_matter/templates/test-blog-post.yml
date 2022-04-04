@@ -7,5 +7,3 @@ fields:
   config:
     required: false
   label: Text Label
-pages:
-- content/post/Test file.md
