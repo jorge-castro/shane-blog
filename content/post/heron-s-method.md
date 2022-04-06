@@ -15,9 +15,9 @@ This is a test blog post to see if I can post it and to test functions.
 
 Kangaroo funny
 
-    yourmom = "me"
+    string = "hello there"
     
-    for i in yourmom
+    for i in string
     	print(i)
 
 Code blocks are **cool!**
