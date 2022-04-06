@@ -3,7 +3,6 @@ archives = []
 author = "Shane O."
 date = 2022-04-06T07:00:00Z
 description = "Boomer Shane learns how to write blogs"
-draft = true
 tags = ["science", "math"]
 title = "Heron's Method"
 
