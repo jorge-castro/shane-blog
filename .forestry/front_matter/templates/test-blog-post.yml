@@ -1,9 +1,0 @@
----
-label: Test blog post
-hide_body: true
-fields:
-- name: text_label
-  type: text
-  config:
-    required: false
-  label: Text Label
