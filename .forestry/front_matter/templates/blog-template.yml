@@ -20,5 +20,3 @@ fields:
 - type: list
   name: archives
   label: archives
-pages:
-- content/heron-s-method-a-recurrsive-algorithm-for-solving-square-roots.md
