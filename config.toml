@@ -37,6 +37,9 @@ tagsLimit = 20
 # Light mode by default : light
 darkmode = "light"
 
+# Math typesetting with KaTex
+math = true
+
   [params.post]
     # Show thumbnails
     thumbnail = true
