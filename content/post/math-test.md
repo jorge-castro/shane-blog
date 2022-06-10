@@ -13,4 +13,4 @@ $$\sum_{x=1}^5 y^z$$
 
 Testing more LaTeX:
 
-$$\diplaystyle\sum_{n=0}^N i =\frac{N+1}{N}$$
+$$\displaystyle\sum_{n=0}^N i =\frac{N+1}{N}$$
