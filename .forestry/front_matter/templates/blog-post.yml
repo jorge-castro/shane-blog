@@ -20,5 +20,11 @@ fields:
 - type: list
   name: archives
   label: archives
+- name: image
+  type: text
+  config:
+    required: false
+  label: image
+  description: Image URL
 pages:
 - content/post/the-dude.md
