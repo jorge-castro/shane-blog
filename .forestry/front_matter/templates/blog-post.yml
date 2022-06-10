@@ -20,3 +20,5 @@ fields:
 - type: list
   name: archives
   label: archives
+pages:
+- content/post/the-dude.md
