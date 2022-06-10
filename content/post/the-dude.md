@@ -3,6 +3,7 @@ archives = []
 author = "Jorge"
 date = 2022-06-10T03:35:00Z
 description = "Info on The Dude."
+image = "/img/the_dude.webp"
 tags = []
 title = "The Dude"
 
