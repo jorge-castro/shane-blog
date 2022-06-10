@@ -10,3 +10,7 @@ $$\sum_{x=1}^5 y^z$$
 \\[\int_a^b f(x)\\]
 
 \\[\overleftarrow{AB}\\]
+
+Testing more LaTeX:
+
+$$\diplaystyle\sum_{n=0}^N i =\frac{N+1}{N}$$
