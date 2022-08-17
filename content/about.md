@@ -7,6 +7,10 @@ aliases:
 author: Shane
 
 ---
+![](/img/jwst.jpg)
+
+_Scientia_Monthly_ is a once a month science blog whose main goal is to help people develop a deeper appreciation for the natural world and the tools we use to describe and predict it.
+
 ![](/img/FRH.jpg)
 
-Shane is a 3rd year physics major at the University of California, Irvine.
+Shane, the author, is a 3rd year physics major at the University of California, Irvine. He is an undergraduate research assistant working in the sub-field of astrophysics.
