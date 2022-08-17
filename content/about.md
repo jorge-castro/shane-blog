@@ -7,4 +7,6 @@ aliases:
 author: Shane
 
 ---
-Shane is a Physics major at UC Irvine. Who is also a gigachad incarnate.
+![](/img/FRH.jpg)
+
+Shane is a 3rd year physics major at the University of California, Irvine.
