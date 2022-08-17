@@ -27,4 +27,5 @@ fields:
   label: image
   description: Image URL
 pages:
+- content/post/our-sun-the-harbringer-of-life.md
 - content/post/the-dude.md
