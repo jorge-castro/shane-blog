@@ -9,3 +9,9 @@ title = "Our Sun: The Harbringer of Life"
 
 +++
 Test lkjfnhkjsfhlsdajh
+
+lkjdflskafjl;asfjasdfj
+
+Math test:
+
+$$\\int_0^{1} x^2 dx$$
