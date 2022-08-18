@@ -14,6 +14,12 @@ Perhaps a different quote from the one you remember, but nonetheless just as cor
 
 $$\\del \\cdot E = \\frac{\\rho}{\\epsilon_{0}}$$
 
+$$\\del \\cdot B = 0$$
+
+$$\\del \\cross E = -\\frac{\\partial B}{\\partial t}$$
+
+$$\\del \\cross H = J + \\frac{\\partial D}{\\partial t}$$
+
 The short answer is that it is neither a particle or a wave (this is a topic that is quite a deep rabbit hole into QFT). However, this does not matter necessarily for us. We know when light behaves as a particle and when it behaves as a wave, as such we are in pretty good standing to understand one of the most mysterious yet prevalent things that always seems to be watching us... our Sun.
 
 The Sun is not your typical star. It is a main sequence star with a G2V stellar classification. This means that the sun is on the cooler side of the spectrum (compared to other stars, still really, _really,_ hot compared to us though). It is only about roughly \~5,700K (\~9,800F) in surface temperature and temperature For reference, the temp of _actually_ hot stars can reach up to more than \~25,000K (\~44,540F). Yeah, that hot...
