@@ -12,7 +12,7 @@ title = "Our Sun: The Harbringer of Life"
 
 Perhaps a different quote from the one you remember, but nonetheless just as correct. James Clerk Maxwell (1831-1879) is the man that is attributed with the discovery of the wave nature of light, arguably one of the most important discoveries in all of physics. This groundbreaking discovery unified electromagnetism and optics- which until that point were understood to be completely different fields. This seemed to be accepted truth for a while, until two men named Max Planck (1858-1947) & Albert Einstein (1875-1956) came along and broke physics again. The two of them both helped foster a new understanding of light through Planck's _quantization_ theory of energy and through Einstein's _Photoelectric Effect._ This new understanding of light told us that light acts like a _particle_, similar to proton or an electron. Now the real question is, what does this mean? How can light be both a wave and a particle? What can we do with all this knowledge of light?
 
-$$\\mbox{Maxwell's Equations of Electromagnetism}$$
+###### Maxwell's Equations of Electromagnetism:
 
 $$\\nabla \\cdot E = \\frac{\\rho}{\\epsilon_{0}}$$
 
