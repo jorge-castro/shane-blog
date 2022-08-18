@@ -16,9 +16,9 @@ $$\\nabla \\cdot E = \\frac{\\rho}{\\epsilon_{0}}$$
 
 $$\\nabla \\cdot B = 0$$
 
-$$\\nabla \\cross E = -\\frac{\\partial B}{\\partial t}$$
+$$\\nabla \\times E = -\\frac{\\partial B}{\\partial t}$$
 
-$$\\nabla \\cross H = J + \\frac{\\partial D}{\\partial t}$$
+$$\\nabla \\times H = J + \\frac{\\partial D}{\\partial t}$$
 
 $$x=1$$
 
