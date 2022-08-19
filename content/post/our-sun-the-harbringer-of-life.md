@@ -14,7 +14,7 @@ Perhaps a different quote from the one you remember, but nonetheless just as cor
 
 ***
 
-**_Maxwell's Equations of Electromagnetism:_**
+**_Maxwell's Equations of Electromagnetism (for reference):_**
 
 $$\\nabla \\cdot E = \\frac{\\rho}{\\epsilon_{0}}$$
 
