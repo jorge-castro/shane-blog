@@ -38,7 +38,7 @@ The reason why such a reaction occurs in stars is mainly a product of the intens
 
 ***
 
-**_P-P Chain diagram with steps i, ii, and iii:_**
+**_P-P Chain diagram with steps i, ii, and iii (for reference):_**
 
 ![](/img/protonprotonchain.jpg)
 
