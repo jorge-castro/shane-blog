@@ -36,6 +36,8 @@ The P-P Chain, is a fusion reaction that occurs within our Sun’s core (as well
 
 **_The Electromagnetic Spectrum of Radiation (for reference):_**
 
+![](https://lh5.googleusercontent.com/nfbWzs8FFxtOnJE6h59FelVSuYXETT6SdVrWUQ-8fuCSC2TXoPmbH9y_UQqlNDIw6tL7xEihvkbgIpe-HcVfQE1nWsz20Mx0Sh7wKIn4s3_TUdoTrsn152NesI5CcN9R0l_ua6OgdEGvjc9Nh3KeUaWv7fmy8Djb1QL8cXAPNU3o6MECMOeVxVOyBQ =636x281)
+
 ***
 
 **_P-P Chain diagram with steps i, ii, and iii (for reference):_**
