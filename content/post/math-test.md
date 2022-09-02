@@ -1,6 +1,7 @@
 ---
 title: Math Test
 date: 2022-06-01T20:12:32.000-07:00
+draft: true
 
 ---
 Testing math typesetting with KaTex.
