@@ -20,3 +20,12 @@ fields:
 - type: list
   name: archives
   label: archives
+- name: image
+  type: text
+  config:
+    required: false
+  label: image
+  description: Image URL
+pages:
+- content/post/our-sun-the-harbringer-of-life.md
+- content/post/the-dude.md
